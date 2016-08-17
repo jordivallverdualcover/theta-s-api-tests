@@ -37,3 +37,5 @@ Code was tested with Python 2.7.
 [Haarm-Pieter Duiker](http://duikerresearch.com/about/)
 * [Download media from command link with Python](https://github.com/theta360developers/python-download-rossgoderer) by
 Ulrich Rossgoderer
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/theta-s-api-tests)
